@@ -1,0 +1,5 @@
+.container {
+    max-width: 60rem; // for even distribution
+    margin: 0 auto; // so that the left and right margins are always even
+    padding: 0 $m-size; // to push things off of the size
+}
