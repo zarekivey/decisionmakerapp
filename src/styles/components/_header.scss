@@ -1,4 +1,4 @@
-.header { // The div in header which contains all of its elements has a class name of header, so this will apply
+.header { 
     background:$red;
     color: $light-red;
     margin-bottom: $xl-size; 
@@ -13,7 +13,7 @@
 .header__subtitle {
     color: white;
     font-size: $m-size;
-    font-weight: 500; // Thickness off the font 
+    font-weight: 500; 
     margin: 0; 
 } 
 
